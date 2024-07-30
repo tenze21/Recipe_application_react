@@ -1,17 +1,16 @@
-## Running React on Replit
+# Recipe Website.
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## Overview.
+This is the second project I have build after the team management application to learn **react**. It is a recipe page where you can get information on variuos recipe fetched from an external API. This application has no backend and uses the browser `local storage` to keep tract of data.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## Tech stack.
+- React.
+- Vite.
+- CSS.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+## Learning.
+After building two applications in react I feel a bit confident about building web applications in react. 
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+## Resources.
+- [Official react website.](https://react.dev/)
+- [React JavaScript Framework for Beginners – Project-Based Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=6613s&ab_channel=freeCodeCamp.org): I have build the above application by following along this turorial on freeCodeCamp. Here three well experienced developers teach you react through a project based approach where each of them helps you build an application. 
